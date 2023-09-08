@@ -18,7 +18,6 @@ import { AlertModal } from "@/components/modals/alert-modal";
 
 import { BillboardColumn } from "./columns";
 
-
 interface CellActionProps {
   data: BillboardColumn;
 }
